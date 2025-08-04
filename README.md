@@ -12,3 +12,5 @@ Developed a responsive and interactive To-Do List web application using React an
 
     Functional components and state management via React Hooks
 <img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/cb496039-60b1-4884-b0cc-c4816e8746dd" />
+
+Update
